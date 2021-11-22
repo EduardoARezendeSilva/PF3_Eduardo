@@ -1,0 +1,62 @@
+body
+{
+    background-color: rgb(95, 235, 165);
+}
+
+img
+{
+    padding-left: 35%;
+    width: 30%;
+}
+
+header
+{
+    text-align: center;
+}
+
+section 
+{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+footer
+{
+    text-align: center;
+}
+
+.entrada
+{
+    width: 15%;
+    height: 20px;
+    border-color: rgb(95, 235, 165);
+    background-color: rgb(57, 136, 96);
+    color: black;
+    text-align: center;
+}
+
+.botao
+{
+    margin-top: 20px;
+    height: 40px;
+    width: 15%;
+    font-size: x-large;
+    border-color: rgb(95, 235, 165);
+    background-color: rgb(57, 136, 96);
+    color: black;
+
+}
+.resultado
+{
+    margin-left: 35%;
+    width: 30%;
+    height: 140px;
+    border-color: rgb(95, 235, 165);
+    color: black;
+    background-color: rgb(57, 136, 96);
+    text-align: center;
+    font-size: medium;
+    align-items: justify;
+    display: flex;
+}
